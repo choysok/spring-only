@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC_Response/SpringMVC_Response.iml" filepath="$PROJECT_DIR$/../SpringMVC_Response/SpringMVC_Response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fileUploadServer/fileUploadServer.iml" filepath="$PROJECT_DIR$/../fileUploadServer/fileUploadServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-only.iml" filepath="$PROJECT_DIR$/spring-only.iml" />
+    </modules>
+  </component>
+</project>
